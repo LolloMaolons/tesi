@@ -1,0 +1,8 @@
+Add-Content .gitignore "desktop.ini"
+Add-Content .gitignore "Thumbs.db"
+Add-Content .gitignore "~$*.docx"
+Add-Content .gitignore "*.aux"
+Add-Content .gitignore "*.log"
+Add-Content .gitignore "*.out"
+Add-Content .gitignore "*.toc"
+Add-Content .gitignore "*.synctex.gz"
